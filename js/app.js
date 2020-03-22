@@ -19,7 +19,6 @@ function calculateExpense(){
     clearFields()
 }
 
-
 function clearFields(){
     houseRent.value = ""
     other.value = ""
